@@ -3,7 +3,7 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          shl13 Blog
-paginate:       5
+paginate:       10
 baseurl:        ''
 url:            "https://shl13.github.io"
 

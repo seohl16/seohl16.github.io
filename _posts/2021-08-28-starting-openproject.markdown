@@ -3,11 +3,14 @@ layout: post
 title:  "Starting OpenProject"
 date:   2021-08-28 16:32:29 +0900
 tags: Openproject TIL
+excerpt_separator: <!--more-->
+sticky: true
+hidden: true
 ---
 
 오픈프로젝트 겸 깃허브 블로그 시작
 
-<br>
+<!--more-->
 
 Default 내용 :
 
