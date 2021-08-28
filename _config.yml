@@ -25,3 +25,13 @@ plugins:
   - jekyll-paginate 
   - jekyll-seo-tag
   - jekyll-feed
+
+navigation:
+ - title: About
+   url: /about
+ - title: Category
+   url: /category
+ - title: Tags
+   url: /tags
+ - title: Archives
+   url: /archives
